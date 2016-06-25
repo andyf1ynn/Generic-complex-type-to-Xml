@@ -14,7 +14,7 @@ namespace Reporting.Forms.Helpers
    
     public class XmlHelper
     {
-        private const string XmlPath = @"\\prodwin0107\userdatashare0001\andy.flynn\visual studio 2015\Projects\ReportingCode\Reporting.Forms\XML\Reports.xml";
+        private const string XmlPath = @"\\*******\Projects\ReportingCode\********\XML\Reports.xml";
 
       //  private readonly string XmlPath = System.IO.Directory.GetCurrentDirectory();
         public bool AddRecord<T>(T item)
